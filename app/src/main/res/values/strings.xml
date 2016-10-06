@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="aboutME_title">About Jeremy Wolf</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_go_fishing">This is the dialog</string>
+    <string name="fishing">Fish?</string>
+    <string name="cancel">Be lame!</string>
+    <string name="dialog_message">Would you like to go fishing?</string>
+    <string name="dialog_title">Lets Go Fishing</string>
+</resources>
